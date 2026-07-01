@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.configurationProvider": "platformio.platformio-ide",
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.errorSquiggles": "enabled",
+
+  "C_Cpp.codeAnalysis.runAutomatically": false,
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
+
+  "editor.formatOnSave": true
+}
